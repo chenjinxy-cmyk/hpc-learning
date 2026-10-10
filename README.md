@@ -23,3 +23,4 @@
 ## 第一次 Git 练习
 
 将仓库克隆到本地，修改 README，然后使用 commit 保存修改，使用 push 同步到 GitHub。
+今天我练习了终端基本命令和git status
